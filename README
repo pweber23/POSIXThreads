@@ -1,0 +1,3 @@
+Must use c++11 when compiling: g++ -std=c++11 Main.cpp -fpermissive -pthread
+
+file input is asked for inside program
